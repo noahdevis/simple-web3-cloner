@@ -1,4 +1,4 @@
-Here's the updated README.md file to reflect the package name as "simple-simple-web3-cloner":
+Here's the updated README.md file to reflect the package name as "simple-web3-cloner":
 
 ```markdown
 # Simple Web3 Cloner
