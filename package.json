@@ -1,0 +1,38 @@
+{
+  "name": "simple-web3-cloner",
+  "version": "1.0.1",
+  "description": "Is a simple web3 cloner script",
+  "main": "web3-cloner.js",
+  "scripts": {
+    "test": "npm web3-cloner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noahdevis/simple-web3-cloner.git"
+  },
+  "keywords": [
+    "web3",
+    "cloner"
+  ],
+  "author": "Noah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noahdevis/simple-web3-cloner/issues"
+  },
+  "homepage": "https://github.com/noahdevis/simple-web3-cloner#readme",
+  "dependencies": {
+    "airtea-protocol": "^1.1.4",
+    "axios": "^1.6.8",
+    "chalk": "^5.3.0",
+    "checksc": "^1.1.4",
+    "commander": "^12.0.0",
+    "etea": "^1.0.0",
+    "expresstea": "^1.1.4",
+    "i": "^0.3.7",
+    "inquirer": "^9.2.17",
+    "lodash": "^4.17.21",
+    "npm": "^10.5.0",
+    "reactea-web3": "^1.1.4",
+    "upstake": "^1.1.4"
+  }
+}
